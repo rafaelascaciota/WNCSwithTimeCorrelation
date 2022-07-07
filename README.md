@@ -1,0 +1,6 @@
+# WNCSwithTimeCorrelation
+MatLab scripts used to generate the results illustrated in paper: "Minimization of Energy Consumption Per Bit of Wireless Networked Control Systems with Time-Correlated Nakagami-m Fading Channels"
+
+In this paper we study the energy consumption of wireless networked control systems (WNCSs) with time correlation. Our proposal is to minimize the energy consumption, assuming that the actuators may be battery-powered devices, without affecting the control system stability, which may be impacted by communication errors. Firstly, the communication channel is modeled according to a time-correlated Nakagami-$m$ fading. With the outage probability for this scenario in hand, we derived a closed-form expression for the transmission power that minimizes the amount of energy consumed per bit in this WNCS scenario. Our results show that the energy consumption increases with the correlation. This is due to the fact that stability depends on the number of consecutive outage events, so that time-correlation implies in higher outage probability, increasing the transmit power in order to maintain the system stable.
+
+keywords: Wireless networked control systems, time-correlation, consecutive outage events, energy consumption.
